@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "534540185661",
+    "firebase_url": "https://pesi-79fb6.firebaseio.com",
+    "project_id": "pesi-79fb6",
+    "storage_bucket": "pesi-79fb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534540185661:android:161bc0bd311c756a617a54",
+        "android_client_info": {
+          "package_name": "com.project.pesiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534540185661-saldjt9v0t8attvm8imbeqrjmh7dln8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbqIM0G7teIiJ4C50spl9x-4hM440sb5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534540185661-saldjt9v0t8attvm8imbeqrjmh7dln8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
