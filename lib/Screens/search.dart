@@ -112,7 +112,7 @@ class _SearchState extends State<Search> {
                   ),
                   child: Text(
                     'Message',
-                    style: TextStyle(color: primaryColor, fontWeight: FontWeight.bold),
+                    style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontStyle: FontStyle.italic),
                   ),
                 ),
               ),
